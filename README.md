@@ -56,4 +56,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 <h3/>
+  <img src="ayrton-senna-f1.gif" width="711">
 </div>
