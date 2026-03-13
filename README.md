@@ -8,13 +8,12 @@
 
 🌎 I live in Brazil and speak: Portuguese (Native), English (Fluent), Spanish (Fluent), Italian (Advanced), Korean (Intermediate) and Japanese (Intermediate).<br><br>
 
-💻 I mainly work with Python, TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL and Docker.<br><br>
+💻 I mainly work with Python, TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL and Prisma.<br><br>
 
 🏎️ I love learning and sharing knowledge about coding, science and motorsports.<br><br>
 
-📚 Software Engineering Student - GPA: 4.0 at UNIFBV | Member of the Academic League of Quantum Computing and Information (LACIQ) at UFPE.
+📚 Software Engineering Student at UNIFBV - GPA: 4.0 | Member of the Academic League of Quantum Computing and Information (LACIQ) at UFPE 
 </h3>
-<h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscillaleandro/)
 
